@@ -1,0 +1,10 @@
+
+# Private password data
+password_hash.txt
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Environment files
+.env
